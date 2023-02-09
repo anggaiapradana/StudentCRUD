@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>CRUD PHP </title>
+<title>Home | Student Details</title>
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"> 
 </head>
 <body>

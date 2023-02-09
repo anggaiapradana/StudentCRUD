@@ -13,11 +13,11 @@
     
 	<table class='table table-bordered table-responsive'> 
         <tr>
-            <th>Roll NO</th>
+            <th>Id</th>
             <th>First name </th>
-            <th>Surname</th>
+            <th>Last Name</th>
             <th>E-mail</th>
-            <th>Phone No.</th>
+            <th>Phone No</th>
             <th colspan="2" align="center">Actions</th>
         </tr>
         <?php    

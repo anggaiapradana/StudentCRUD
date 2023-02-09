@@ -43,11 +43,11 @@ if(isset($_POST['btn-del']))
 		 ?>
          <table class='table table-bordered'>
          <tr>
-         <th>Roll NO.</th>
-         <th>first name</th>
-         <th>Surname</th>
+         <th>Id</th>
+         <th>First name</th>
+         <th>Last Name</th>
          <th>E-mail</th>
-         <th>Phone NO.</th>
+         <th>Phone No</th>
          </tr>
          <?php
          $stmt = $DB_con->prepare("SELECT * FROM tbl_users WHERE id=:id");

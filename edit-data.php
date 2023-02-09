@@ -47,7 +47,7 @@ if(isset($msg))
         </tr>
  
         <tr>
-            <td>Surname</td>
+            <td>Last Name</td>
             <td><input type='text' name='last_name' class='form-control' value="<?php echo $last_name; ?>" required></td>
         </tr>
  
@@ -57,7 +57,7 @@ if(isset($msg))
         </tr>
  
         <tr>
-            <td>Phone NO.</td>
+            <td>Phone No</td>
             <td><input type='text' name='contact_no' class='form-control' value="<?php echo $contact_no; ?>" required></td>
         </tr>
  
