@@ -37,7 +37,7 @@ if(isset($_GET['inserted'])){
 	<form method='post'>
     <table class='table table-bordered'>
         <tr>
-            <td>First_name</td><td><input type='text' name='first_name' class='form-control' required></td>
+            <td>First Name</td><td><input type='text' name='first_name' class='form-control' required></td>
         </tr>
         <tr>
             <td>Last Name</td><td><input type='text' name='last_name' class='form-control' required></td>
